@@ -1,0 +1,321 @@
+/* iPad Mini in portrait & landscape */
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) { 
+
+img{
+	width: 100%;
+}
+
+.section-p {
+    text-align: left;
+    color: #fff !important;
+    font-size: 13px !important;
+    padding-left: 120px;
+    padding-right: 120px;
+}
+}
+
+/* iPad Mini in landscape only */
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) 
+and (orientation : landscape) { 
+
+.problem-state h2{
+    font-size: 16px !important;
+}
+.main-banner{
+  height:  auto !important;
+  }
+.section-p {
+    text-align: left;
+    color: #fff !important;
+    font-size: 13px !important;
+    padding-left: 120px;
+    padding-right: 120px;
+}
+
+.fw-light {
+    font-size: 26px;
+    padding-top: 40px;
+    padding-left: 0px !important;
+}
+.country {
+    font-size: 18px;
+    font-weight: 500;
+}
+.location {
+    height: 490px;
+}
+.btn1 {
+    padding-top: 14px;
+}
+.gauche {
+    text-align: center;
+    font-size: 35px;
+    font-weight: 700;
+    /* text-align: left; */
+}
+.img-icon{
+  width: 10%
+}
+.card-body img {
+    height: 160px;
+    width: 170px;
+}
+.card-title {
+    font-size: 30px !important;
+    font-weight: 400px !important;
+    color: #000000 !important;
+}
+.card-text {
+    font-size: 26px !important;
+    font-weight: 200px !important;
+    color: #000000 !important;
+}
+ .lead{
+    padding-left: 0px !important;
+ }
+ .pro-1{
+    margin-left:170px;
+ }
+  .pro-2{
+    margin-left:170px;
+ }
+  .pro-3{
+    margin-left:170px;
+ }
+  .pro-4{
+    margin-left:170px;
+ }
+
+}
+/* iPad Mini in portrait only */
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) 
+and (orientation : portrait) {
+    .main-banner{
+  background-color: #fff !important;
+  background-image: url(../images/w.jpg);
+  background-repeat: no-repeat !important;
+}
+.card-body img {
+    height: 160px;
+    width: 170px;
+} 
+.subheading {
+	font-size: 	16px
+}
+.main-banner{
+  height:  auto !important;
+  }
+  .btn1 {
+    padding-top: 14px;
+}
+.country{
+	font-size: 10px !important;
+}
+.coverage{ 
+ font-size:10px; 
+
+  }
+.fw-light {
+    font-size: 26px;
+    padding-top: 40px;
+    padding-left: 0px !important;
+}
+ .lead{
+ 	padding-left: 0px !important;
+ }
+ .loc-row {
+    padding-left: 74px;
+    padding-top: 50px;
+    color: #fff;
+}
+.section-p {
+    text-align: left;
+    color: #fff !important;
+    font-size: 18px !important;
+    padding-left: 120px;
+    padding-right: 120px;
+}
+.problem-state{
+    font-size: 16px !important;
+}
+.gauche {
+    text-align: center;
+    font-size: 35px;
+    font-weight: 700;
+    /* text-align: left; */
+}
+.img-icon{
+  width: 10%
+}
+ .pro-1{
+    margin-left: 75px;
+ }
+  .pro-2{
+    margin-left: 75px;
+ }
+  .pro-3{
+    margin-left: 75px;
+ }
+  .pro-4{
+   margin-left: 75px;
+ }
+
+ }
+
+@media only screen and (max-width: 415px) 
+{
+  .main-banner{
+  height:  auto !important;
+  }
+    .main-banner{
+  background-color: #fff;
+  background-image: url(../images/Cover_Page_mob.jpg);
+  background-repeat: no-repeat;
+}
+
+    .card-title {
+    font-size: 24px !important;
+    font-weight: 400px !important;
+    color: #000000 !important;
+}
+/*.text-center-one{
+    background: #731811 !important;
+
+}*/
+.card-body .card-text {
+    font-size: 16px !important;
+    font-weight: 200px !important;
+    color: #000 !important;
+}
+ .pro-1{
+    margin-left:90px;
+ }
+  .pro-2{
+    margin-left:90px;
+ }
+  .pro-3{
+    margin-left:90px;
+ }
+  .pro-4{
+    margin-left:90px;
+ }
+
+.card-body {
+    flex: 1 1 auto;
+     padding: 0rem 0rem; 
+}
+
+.p-5 {
+     padding: 0rem !important; 
+}
+.card-body {
+    flex: 1 1 auto;
+     padding: 0rem 0rem; 
+}
+    .fw-light {
+     text-align: center !important; 
+    font-size: 36px !important;
+    /* width: 369px !important;*/
+    font-weight: 700 !important;
+    color:#600C06 !important;
+    padding-left: 0px !important;
+    padding-right: 10px !important; 
+}
+.lead  {
+    color: #000000 !important;
+    font-size: 16px !important;
+    font-weight: 500;
+    line-height: 25.81px;
+}
+.lead {
+     text-align: center !important;
+    font-size: 1.25rem;
+     width: auto !important; 
+    color: #fff;
+     padding-left: 0px !important;
+}
+
+container .row{
+  text-align:center !important;
+}
+.card-title{
+  font-size: 24px;
+  font-weight: 400px;
+  color: #000000 !important;
+}
+.card-text{
+  font-size: 16px !important;
+  font-weight: 200px !important;
+  color: #000000 !important;
+}
+.gauche {
+    font-size: 35px;
+    font-weight: 700;
+    text-align: center;
+}
+ .pro-1{
+    margin-left: 75px !important;
+}
+ .pro-2{
+    margin-left: 75px !important;
+}
+ .pro-3{
+    margin-left: 75px !important;
+}
+ .pro-4{
+    margin-left: 75px !important;
+}
+.country {
+    font-size: 10px;
+    font-weight: 500;
+}
+.coverage{
+    font-size:  12px !important;
+}
+.card-body {
+    flex: 1 1 auto;
+    padding: none;
+}
+.btn1 {
+    padding-top: 2px !important;
+}
+.itics-1 {
+    font-family: Montserrat, Arial, Helvetica, sans-serif;
+    font-size: 16px !important;
+    line-height: 25px !important;
+    font-weight: 300;
+    color: #000000;
+}
+.subhead-h3-p {
+    color: #000000 !important;
+    font-size: 16px !important;
+    font-weight: 500;
+    line-height: 25.81px;
+}
+.subheading {
+    text-align: left;
+    color: #fff;
+    font-size: 17px;
+    font-weight: 700;
+    text-transform: capitalize;
+    margin-bottom: 10px;
+    margin-left: 35px;
+}
+.loc-row {
+    padding-top: 100px !important;
+    color: #fff !important;
+}
+.section-p {
+    text-align: center;
+    color: #fff !important;
+    font-size: 15px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+    }

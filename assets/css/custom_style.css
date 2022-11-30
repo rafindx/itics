@@ -1,0 +1,375 @@
+/*Custom CSS*/
+.itics-1 {
+    font-family: Montserrat, Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    line-height: 36px;
+    font-weight: 300;
+    color: #000000;
+    padding-bottom: 60px;
+}
+.alert-success {
+    color: #008000;
+    background-color: #008000;
+    border-color: #badbcc;
+}
+.offset-lg-2 {
+    margin-left: 150.5px !important;
+}
+h2{
+      text-align: center !important;
+      color: #fff;
+}
+.problem-state .section-heading{
+    margin-left: 200px;
+    margin-top: 300px;
+}
+.problem-state {
+    padding-top: 10px;
+    padding-bottom: 110px;
+}
+.subheading{
+    text-align: left;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: capitalize;
+    margin-bottom: 10px;
+    margin-left: 72px;
+}
+.section-p {
+      text-align: left;
+      color: #fff !important;
+      font-size: 16px;
+      padding-left: 72px;
+      padding-right:120px;
+}
+.subhead-h3{
+  color: #600C06;
+  font-size: 36px;
+  /*padding-top: 100px;*/
+}
+.subhead-h3-p{
+  color: #000000 !important;
+  font-size: 18px !important;
+  font-weight: 350;
+  line-height: 25.81px;
+  padding-top: 10px;
+}
+/*.cards{
+  margin-bottom: 45px !important;
+}*/
+
+.container .row{
+  text-align:center !important;
+}
+.card-title{
+  font-size: 24px;
+  font-weight: 400px;
+  color: #000000 !important;
+}
+.card-text{
+  font-size: 16px !important;
+  font-weight: 200px !important;
+  color: #000!important;
+}
+
+.container {
+    padding-left: 20px;
+}
+/*.col-lg-6 {
+    flex: 0 0 auto;
+    width: 43%;
+}*/
+
+.fw-light {
+    text-align: left;
+    font-size: 36px;
+    width: 400px;
+    font-weight: 700 !important;
+    color: #fff;
+    padding-left: 38px;
+}
+
+
+.lead {
+    text-align: left;
+    font-size: 20px;
+    width: 500px;
+    font-weight: 300;
+    color: #fff;
+    padding-left: 40px;
+}
+
+ .loc-row{
+    padding-top:100px;
+    color: #fff;
+}
+
+.nav-foo{
+  margin-left: 744px;
+  margin-bottom: 20px;
+}
+
+.pro-1 {
+    background: #461613 !important;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    padding: 30px 30px;
+    text-align: left;
+    position: relative;
+    z-index: 1;
+    overflow: hidden;
+    color: #fff;
+    border: 2px #0000;
+    width: 250px;
+    margin-right: 35px;
+    height: 500px;
+    border-radius: 15px;
+    margin-bottom: 20px;
+}
+
+.pro-2 {
+    background: #F4B06F !important;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    padding: 30px 30px;
+    text-align: left;
+    position: relative;
+    z-index: 1;
+    overflow: hidden;
+    color: #fff;
+    border: 2px #0000;
+    width: 250px;
+    margin-right: 35px;
+    height: 500px;
+    border-radius: 15px;
+    margin-bottom: 20px;
+}
+.pro-3 {
+    background: #3675DA !important;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    padding: 30px 30px;
+    text-align: left;
+    position: relative;
+    z-index: 1;
+    overflow: hidden;
+    color: #fff;
+    border: 2px #0000;
+    width: 250px;
+    margin-right: 35px;
+    height: 500px;
+    border-radius: 15px;
+    margin-bottom: 20px;
+}
+.pro-4 {
+    background: #616564 !important;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    padding: 30px 30px;
+    text-align: left;
+    position: relative;
+    z-index: 1;
+    overflow: hidden;
+    color: #fff;
+    border: 2px #0000;
+    width: 250px;
+    margin-right: 35px;
+    height: 500px;
+    border-radius: 15px;
+    margin-bottom: 20px;
+}
+
+.problem-state {
+  background: #494949 !important;
+  height: auto;
+  background-repeat: no-repeat;
+  background-size:contain;
+  background-position:center;
+
+}
+
+.location {
+  background-image: url(../images/location.png);
+  height: 550px;
+  background-repeat: no-repeat;
+  background-size:contain;
+  background-position:center;
+}
+.card-body img {
+    height: 160px;
+}
+.icon img {
+    height: 80px !important;
+    width: 80px !important;
+}
+
+.sections{
+  text-align: left;
+}
+
+.main-banner{
+  background-color: #fff;
+  background-image: url(../images/Cover_Page.jpg);
+  height:600px;
+  background-position: center center, center top;
+  background-repeat: no-repeat;
+}
+.mycontent-left {
+  border-right: 6px dashed #fff;
+}
+.the-clients{
+  background-image: url(../images/Group-1.png);
+  background-repeat: no-repeat;
+}
+
+.country{
+    font-size: 20px;
+    font-weight: 500;
+
+}
+.coverage{
+  color: #FFFFFF7D;
+}
+.border-line {
+  border-right: 1px  solid rgba(255, 255, 255, 0.3);
+  height: 25px;
+}
+.container, .container-lg, .container-md, .container-sm, .container-xl {
+    max-width: 1166px;
+}
+.second-tab{
+  padding-top: 77px !important;
+}
+.lastsection{
+
+  background-color:  #FFF7F6;
+  background-repeat: repeat;
+}
+.the-clients:after{
+
+  background-image: url(../images/last-sec.png);
+  background-repeat: repeat;
+}
+.ces{
+
+  background-image: url(../images/slider-left-dec.png);
+  background-repeat:no-repeat;
+}
+
+.gauche{
+      font-size: 35px;
+    font-weight: 700;
+    text-align: left;
+}
+.corps {
+    font-weight: 400;
+    font-size: 20px;
+    text-align: justify;
+}
+.case-study-line{
+    font-size: 20px;
+    font-weight: 500;
+    color: #000;
+}
+
+/*.subhead-h3
+{
+  padding-top: 50px;
+}*/
+.table>:not(caption)>*>* {
+    padding: 0.5rem 0.5rem !important;
+    background-color: var(--bs-table-bg);
+    border-bottom-width: 1px;
+    box-shadow: inset 0 0 0 9999px var(--bs-table-accent-bg);
+}
+.we{
+  height:  500px !important;
+}
+h4{
+  font-size: 20px !important;
+}
+
+
+element.style {
+}
+.container .row {
+    text-align: center !important;
+}
+
+.mt-5 {
+     margin-top: 0rem!important; 
+}
+
+.intro {
+  height: 100%;
+}
+
+table td,
+table th {
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.card {
+  border-radius: .5rem;
+}
+
+.card-body {
+    flex: 1 1 auto;
+    padding: 3rem 1rem;
+}
+.dark-column{
+  background: #000 !important;
+  color:  #fff !important;
+}
+.int
+  {
+    padding-top: 100px;
+}
+
+    .int {
+        position: relative;
+    }
+    .int img {
+        position: absolute;
+        top: 0px;
+        right: 0px;
+        z-index: 1;
+    }
+     .int2 {
+        position: relative;
+    }
+    .int2 img {
+        position: absolute;
+        top: 0px;
+        right: 0px;    
+        z-index: 1;
+    }
+
+th{
+  overflow-wrap: break-word;
+}
+.owel{
+  width:  200px;
+  overflow-wrap: break-word;
+}
+ .btn1{
+    padding-top: 445px;
+}
+
+
+
+
+
+
+
+
+
+
+
